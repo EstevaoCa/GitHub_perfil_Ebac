@@ -5,7 +5,7 @@
 import { useState } from "react"
 import Perfil from "./components/Perfil"
 import Formulario from "./components/fomulario"
-import ReposList from "./components/repos";
+import ReposList from "./components/repos"
 
 
 function App() {

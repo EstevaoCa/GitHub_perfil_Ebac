@@ -25,3 +25,14 @@
     padding: 8px;
     text-decoration: none;
 }
+
+.errorMessage {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ffe6e6;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    text-align: center;
+}
